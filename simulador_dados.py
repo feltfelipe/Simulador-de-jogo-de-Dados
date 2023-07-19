@@ -1,5 +1,7 @@
 '''SIMULADOR DE DADOS
-Gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o programa quantas vezes quiser'''
+Esse foi um desafio proposto pelo DevAprender no youtube que eu confesso, foi complicado. 
+Se tratava de criar um simulador de dados e uma contagem posterior para pontuação. Até aí tudo bem, mas quando falamos de classes, a simplicidade do Python exige conhecimento e muitas vezes
+uma visitinha na doc e/ou uma consulta aos universitários, rs'''
 
 
 import random
